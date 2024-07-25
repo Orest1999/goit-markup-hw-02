@@ -1,5 +1,5 @@
 body {
-    font-family:"Rodoto",sans-serif;
+    font-family: "Rodoto", sans-serif;
     color: #2E2F42;
     background-color:#FFFFFF;
 }
@@ -12,7 +12,6 @@ body {
     text-align: left;
 }
 .navigation-list {
-    font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
@@ -20,7 +19,6 @@ body {
     text-align: left;
 }
 .mail {
-    font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -30,7 +28,6 @@ body {
 }
 .mail:hover,
 .mail:focus {
-    font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -39,7 +36,6 @@ body {
     color: #404BBF;
 }
 .pfone {
-        font-family: Roboto;
         font-size: 16px;
         font-weight: 400;
         line-height: 24px;
@@ -49,7 +45,6 @@ body {
 }
 .pfone:hover,
 .pfone:focus {
-    font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
@@ -66,7 +61,6 @@ body {
         background-color: #2E2F42;
 }
 .replik{
-        font-family: Roboto;
         font-size: 56px;
         font-weight: 700;
         line-height: 60px;
@@ -92,7 +86,7 @@ body {
         background-color:#4D5AE5;
 }
 .knop:hover {
-    width: Hug (169px)px;
+        width: Hug (169px)px;
         height: Hug (56px)px;
         top: 88px;
         left: 20px;
@@ -102,8 +96,7 @@ body {
         opacity: 0px;
         background-color:#404BBF;
 }
-.knop-tekst{
-    font-family: Roboto;
+.tekstiv-knop{
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
@@ -112,7 +105,6 @@ body {
     color: #FFFFFF;
 }
  .com {
-        font-family: Roboto;
         font-size: 20px;
         font-weight: 500;
         line-height: 24px;
@@ -121,7 +113,6 @@ body {
         color:#434455;
 }
 .retro{
-        font-family: Roboto;
         font-size: 16px;
         font-weight: 400;
         line-height: 24px;
@@ -130,7 +121,6 @@ body {
         color: #434455;
 }
 .agov{
-font-family: Roboto;
 font-size: 36px;
 font-weight: 700;
 line-height: 40px;
@@ -139,7 +129,6 @@ text-align: center;
 color: #434455;
 }
 .imy{
-font-family: Roboto;
 font-size: 20px;
 font-weight: 500;
 line-height: 24px;
@@ -147,7 +136,6 @@ letter-spacing: 0.02em;
 text-align: center;
 }
 .info-imy{
-font-family: Roboto;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
@@ -163,7 +151,6 @@ opacity: 0px;
 background-color: #2E2F42;
 }
 .tekct {
-font-family: Roboto;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
