@@ -26,13 +26,8 @@ body {
     text-align: left;
     color: #434455;
 }
-.mail:hover,
-.mail:focus {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    text-align: left;
+.mail-fonts:hover,
+.mail-fonts:focus {
     color: #404BBF;
 }
 .pfone {
@@ -43,13 +38,8 @@ body {
         text-align: left;
         color: #434455;
 }
-.pfone:hover,
-.pfone:focus {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    text-align: left;
+.pfone-fonts:hover,
+.pfone-fonts:focus {
     color: #404BBF;
 }
 .upper-part {
@@ -67,14 +57,8 @@ body {
         letter-spacing: 0.02em;
         text-align: center;
         color: #FFFFFF;
-        width: 496px;
-        height: 120px;
-        top: 260px;
-        left: 472px;
-        gap: 0px;
-        opacity: 0px;
 }
-.knop{
+.content{
         width: Hug (169px)px;
         height: Hug (56px)px;
         top: 428px;
@@ -85,11 +69,12 @@ body {
         opacity: 0px;
         background-color:#4D5AE5;
 }
-.knop:hover {
+.tekstiv-knop:hover,
+.tekstiv-knop:focus {
         width: Hug (169px)px;
         height: Hug (56px)px;
-        top: 88px;
-        left: 20px;
+        top: 428px;
+        left: 636px;
         padding: 16px 32px 16px 32px;
         gap: 10px;
         border-radius: 4px 0px 0px 0px;
