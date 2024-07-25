@@ -11,7 +11,7 @@ body {
     letter-spacing: 0.03em;
     text-align: left;
 }
-.navigation-list{
+.navigation-list {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
@@ -19,7 +19,7 @@ body {
     letter-spacing: 0.02em;
     text-align: left;
 }
-.mail{
+.mail {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
@@ -29,7 +29,7 @@ body {
     color: #434455;
 }
 .mail:hover,
-.mail.link:focus{
+.mail:focus {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
@@ -38,7 +38,7 @@ body {
     text-align: left;
     color: #404BBF;
 }
-.pfone{
+.pfone {
         font-family: Roboto;
         font-size: 16px;
         font-weight: 400;
@@ -48,7 +48,7 @@ body {
         color: #434455;
 }
 .pfone:hover,
-.pfone.link:focus{
+.pfone:focus {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
@@ -57,8 +57,13 @@ body {
     text-align: left;
     color: #404BBF;
 }
-.upper-part{
-    background-color: #2E2F42;
+.upper-part {
+        width: 1440px;
+        height: 600px;
+        top: 72px;
+        gap: 0px;
+        opacity: 0px;
+        background-color: #2E2F42;
 }
 .replik{
         font-family: Roboto;
@@ -68,6 +73,12 @@ body {
         letter-spacing: 0.02em;
         text-align: center;
         color: #FFFFFF;
+        width: 496px;
+        height: 120px;
+        top: 260px;
+        left: 472px;
+        gap: 0px;
+        opacity: 0px;
 }
 .knop{
         width: Hug (169px)px;
@@ -99,4 +110,47 @@ body {
     letter-spacing: 0.04em;
     text-align: left;
     color: #FFFFFF;
+}
+ .com {
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color:#434455;
+}
+.retro{
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: #434455;
+}
+.agov{
+font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+.imy{
+font-family: Roboto;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
+}
+.info-imy{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
 }
