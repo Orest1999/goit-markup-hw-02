@@ -154,3 +154,20 @@ line-height: 24px;
 letter-spacing: 0.02em;
 text-align: center;
 }
+.topctor {
+width: 1440px;
+height: 312px;
+top: 2988px;
+gap: 0px;
+opacity: 0px;
+background-color: #2E2F42;
+}
+.tekct {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #FFFFFF;
+}
