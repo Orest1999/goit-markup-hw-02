@@ -1,15 +1,21 @@
 body {
-    font-family: "Rodoto", sans-serif;
-    color: #2E2F42;
+    font-family: "Roboto",sans-serif;
+    color: #434455;
     background-color:#FFFFFF;
 }
 .emblem{
-    font-family: Raleway;
+    font-family: "Raleway",sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 21px;
     letter-spacing: 0.03em;
     text-align: left;
+    line-height: 1.17;
+    text-transform:uppercase;
+    color: #4d5ae5;
+}
+.kolorstudio{
+    color:#2E2F42;
 }
 .navigation-list {
     font-size: 16px;
@@ -17,6 +23,13 @@ body {
     line-height: 24px;
     letter-spacing: 0.02em;
     text-align: left;
+}
+.navigation-list:hover,
+.navigation-list:focus{
+    color: #404bbf;
+}
+.adres-norm{
+font-style: normal;
 }
 .mail {
     font-size: 16px;
@@ -57,6 +70,7 @@ body {
         letter-spacing: 0.02em;
         text-align: center;
         color: #FFFFFF;
+        line-height: 1.07;
 }
 .content{
         font-size: 16px;
