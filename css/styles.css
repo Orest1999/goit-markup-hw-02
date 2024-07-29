@@ -24,6 +24,13 @@ body {
     letter-spacing: 0.02em;
     text-align: left;
 }
+.poret{
+color:#2e2f42;
+}
+.poret:hover,
+.poret:focus{
+color: #404bbf;
+}
 .navigation-list:hover,
 .navigation-list:focus{
     color: #404bbf;
@@ -73,6 +80,7 @@ font-style: normal;
         line-height: 1.07;
 }
 .content{
+        font-family: "Roboto", sans-serif;
         font-size: 16px;
         font-weight: 500;
         line-height: 24px;
@@ -95,6 +103,9 @@ font-style: normal;
         background-color:#404BBF;
         cursor: pointer;
 }
+.rotev{
+color:#2e2f42 ;
+}
  .com {
         font-size: 20px;
         font-weight: 500;
@@ -111,13 +122,21 @@ font-style: normal;
         text-align: left;
         color: #434455;
 }
+.fotomen{
+background-color: #F4F4FD;
+}
 .agov{
 font-size: 36px;
 font-weight: 700;
 line-height: 40px;
 letter-spacing: 0.02em;
 text-align: center;
-color: #434455;
+color: #2e2f42;
+line-height: 1.11;
+text-transform: capitalize;
+}
+.fotospusok{
+background-color: #FFFFFF;
 }
 .imy{
 font-size: 20px;
@@ -125,6 +144,7 @@ font-weight: 500;
 line-height: 24px;
 letter-spacing: 0.02em;
 text-align: center;
+color: #2e2f42;
 }
 .info-imy{
 font-size: 16px;
@@ -139,10 +159,10 @@ height: 312px;
 top: 2988px;
 gap: 0px;
 opacity: 0px;
-background-color: #2E2F42;
+background-color: #2e2F42;
 }
 .kolorstudio-p{
-color: #FFFFFF;
+color: #f4f4fd;
 }
 .tekct {
 font-size: 16px;
@@ -150,5 +170,5 @@ font-weight: 400;
 line-height: 24px;
 letter-spacing: 0.02em;
 text-align: left;
-color: #FFFFFF;
+color: #F4F4FD;
 }
