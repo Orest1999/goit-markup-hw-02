@@ -44,8 +44,10 @@ font-style: normal;
     line-height: 24px;
     letter-spacing: 0.02em;
     text-align: left;
-    color: #434455;
 }
+.mail-fonts{
+color: #434455;
+    }
 .mail-fonts:hover,
 .mail-fonts:focus {
     color: #404BBF;
@@ -56,7 +58,9 @@ font-style: normal;
         line-height: 24px;
         letter-spacing: 0.02em;
         text-align: left;
-        color: #434455;
+}
+.pfone-fonts{
+color: #434455;
 }
 .pfone-fonts:hover,
 .pfone-fonts:focus {
